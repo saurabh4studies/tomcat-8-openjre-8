@@ -1,5 +1,5 @@
 FROM centos:6
-MAINTAINER ecw
+MAINTAINER saurabh
 
 RUN yum -y install wget && \
  yum -y install tar
