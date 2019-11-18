@@ -1,4 +1,4 @@
-# Tomcat-8-openjdk-8 Docker image 
+# Tomcat-8-openjre-8 Docker image 
 
 There are several vulnerabilities to the default Apache Tomcat Application server docker image.
 So we tried to address those vulnerabilities by 
