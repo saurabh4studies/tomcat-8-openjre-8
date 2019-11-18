@@ -20,4 +20,4 @@ https://hub.docker.com/r/msaurabh08/tomcat-openjdk
 
 Or you can run the following command to pull this image
 
-docker pull msaurabh08/tomcat-openjdk
+docker pull msaurabh08/tomcat-openjdk:8
